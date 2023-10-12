@@ -67,6 +67,8 @@ Ther are two ways to start the application-
     ```
     Upon completion, the frontend will be available at localhost:3000.
 
+    ### Demo Video
+    *https://github.com/jOhNeX2017/brightedge_fullstack_assignment/blob/main/screenshots/demo.mov*
     ### Screenshots
 
     Initial page
@@ -96,5 +98,10 @@ Ther are two ways to start the application-
     Filteration over the metrics data
     ![Screenshot of a filter over the metrics data](/screenshots/9.png)
 
-    #### Demo Video
-    *https://github.com/jOhNeX2017/brightedge_fullstack_assignment/blob/main/screenshots/demo.mov*
+    POST api call over the postman with single url
+    ![POST api call over the postman with single url](/screenshots/10.png)
+
+    POST api call over the postman with mutiple url
+    ![POST api call over the postman with multiple url](/screenshots/11.png)
+
+    
