@@ -1,4 +1,4 @@
 {
     "crux_api_url": "https://chromeuxreport.googleapis.com/v1/records:queryRecord",
-    "google_api_key": "AIzaSyA4klaDYO2hXnkBmIl957ARZak8p_sp0ek"
+    "google_api_key": "GOOGLE_API_KEY"
 }
