@@ -69,22 +69,29 @@ Ther are two ways to start the application-
 
     ### Screenshots
 
+    Initial page
     ![Screenshot of a initial page](/screenshots/1.png)
 
+    Searching url(google.com)
     ![Screenshot of a searching url(google.com)](/screenshots/2.png)
 
+    Report of google.com
     ![Screenshot of a report for google.com](/screenshots/3.png)
 
+    Report with metrics
     ![Screenshot of a report with metrics](/screenshots/4.png)
 
+    Filter Metrics Dropdown
     ![Screenshot of a metrics filter](/screenshots/5.png)
 
+    Selecting metrics filter
     ![Screenshot of a applying metrics filter](/screenshots/6.png)
 
+    Calling second url example.com
     ![Screenshot of a searching second url(example.com)](/screenshots/7.png)
 
+    Removed the url google.com
     ![Screenshot of a removing the url google.com](/screenshots/8.png)
 
+    Filteration over the metrics data
     ![Screenshot of a filter over the metrics data](/screenshots/9.png)
-
-
