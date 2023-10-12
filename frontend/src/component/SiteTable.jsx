@@ -85,7 +85,7 @@ function SiteTable(props) {
           {siteData.map((site,idx) => {
             return (
               <>
-                <Accordion sx={{ width: "90vw" }} key={idx}>
+                <Accordion sx={{ width: "90vw" }} key={idx} expanded={true}>
                   <AccordionSummary
                     expandIcon={<ExpandMoreIcon />}
                     aria-controls="panel1a-content"
