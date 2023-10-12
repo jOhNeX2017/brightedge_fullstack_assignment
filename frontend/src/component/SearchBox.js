@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import {
   Chip,
   Autocomplete,
@@ -34,13 +34,18 @@ const SearchBox = (props) => {
         key: idx + 1,
         label: searchInput,
       };
-      handleAPICall([...chipData, newChipValue]);
       setChipData((prevChipData) => {
         return [...prevChipData, newChipValue];
       });
       setSearchInput("");
     }
   };
+
+  useEffect(()=>{
+    if(chipData && chipData.length>0){
+      handleAPICall(chipData)
+    }
+  },[chipData])
 
   return (
     <>

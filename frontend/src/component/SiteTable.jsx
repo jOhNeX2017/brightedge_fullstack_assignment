@@ -11,6 +11,7 @@ import {
   MenuItem,
   Select,
   OutlinedInput,
+  CircularProgress
 } from "@mui/material";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import ParameterTable from "./ParameterTable";
@@ -53,7 +54,10 @@ function SiteTable(props) {
 
   return (
     <>
-      {siteData && siteData.length > 0 && (
+      {loader && (
+         <CircularProgress />
+      )}
+      {!loader && siteData && siteData.length > 0 && (
         <>
           {/* Metrics Selection Box  */}
           <FormControl  sx={{ m: 1, width: 400 }}>

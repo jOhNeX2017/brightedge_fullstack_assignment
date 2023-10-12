@@ -30,7 +30,7 @@ function Wrapper() {
         setSearchInput={setSearchInput}
         handleAPICall={handleAPICall}
       />
-      <SiteTable urlData={urlData}/>
+      <SiteTable urlData={urlData} loader={loader}/>
     </Stack>
   );
 }
