@@ -95,3 +95,6 @@ Ther are two ways to start the application-
 
     Filteration over the metrics data
     ![Screenshot of a filter over the metrics data](/screenshots/9.png)
+
+    #### Demo Video
+    *https://github.com/jOhNeX2017/brightedge_fullstack_assignment/blob/main/screenshots/demo.mov*
