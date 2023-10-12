@@ -69,22 +69,22 @@ Ther are two ways to start the application-
 
     ### Screenshots
 
-    ![Screenshot of a initial page](https://github.com/jOhNeX2017/brightedge_fullstack_assignment/tree/main/screenshots/1.png)
+    ![Screenshot of a initial page](/screenshots/1.png)
 
-    ![Screenshot of a searching url(google.com)](https://github.com/jOhNeX2017/brightedge_fullstack_assignment/tree/main/screenshots/2.png)
+    ![Screenshot of a searching url(google.com)](/screenshots/2.png)
 
-    ![Screenshot of a report for google.com](https://github.com/jOhNeX2017/brightedge_fullstack_assignment/tree/main/screenshots/3.png)
+    ![Screenshot of a report for google.com](/screenshots/3.png)
 
-    ![Screenshot of a report with metrics](https://github.com/jOhNeX2017/brightedge_fullstack_assignment/tree/main/screenshots/4.png)
+    ![Screenshot of a report with metrics](/screenshots/4.png)
 
-    ![Screenshot of a metrics filter](https://github.com/jOhNeX2017/brightedge_fullstack_assignment/tree/main/screenshots/5.png)
+    ![Screenshot of a metrics filter](/screenshots/5.png)
 
-    ![Screenshot of a applying metrics filter](https://github.com/jOhNeX2017/brightedge_fullstack_assignment/tree/main/screenshots/6.png)
+    ![Screenshot of a applying metrics filter](/screenshots/6.png)
 
-    ![Screenshot of a searching second url(example.com)](https://github.com/jOhNeX2017/brightedge_fullstack_assignment/tree/main/screenshots/7.png)
+    ![Screenshot of a searching second url(example.com)](/screenshots/7.png)
 
-    ![Screenshot of a removing the url google.com](https://github.com/jOhNeX2017/brightedge_fullstack_assignment/tree/main/screenshots/8.png)
+    ![Screenshot of a removing the url google.com](/screenshots/8.png)
 
-    ![Screenshot of a filter over the metrics data](https://github.com/jOhNeX2017/brightedge_fullstack_assignment/tree/main/screenshots/9.png)
+    ![Screenshot of a filter over the metrics data](/screenshots/9.png)
 
 
